@@ -18,10 +18,10 @@ As a data science enthusiast, I have completed the IBM Data Science Professional
 
 In addition to the IBM Data Science Professional Certificate, I have also earned various other certificates that reflect my commitment to continuous learning and professional growth. These certificates, received through a Russian educational platform, cover a wide range of topics, including but not limited to:
 
-- [Fundamentals of Statistics. Part I]()
-- [Fundamentals of Statistics. Part II]()
-- [SQL Practice Simulator]()
-- [Data Analysis with R. Part I]()
+- [Fundamentals of Statistics. Part I](https://github.com/elaginaekaterina/Certification/blob/main/Fundamentals_of_Statistics_part_I.pdf)
+- [Fundamentals of Statistics. Part II](https://github.com/elaginaekaterina/Certification/blob/main/Fundamentals_of_Statistics_part_II.pdf)
+- [SQL Practice Simulator](https://github.com/elaginaekaterina/Certification/blob/main/SQL_Practice_Simulator.pdf)
+- [Data Analysis with R. Part I](https://github.com/elaginaekaterina/Certification/blob/main/DataAnalysis_with_R.pdf)
 - [Data Analysis with R. Part II](https://stepik.org/cert/1909245)
 - [Python Programming](https://stepik.org/cert/829374)
 
